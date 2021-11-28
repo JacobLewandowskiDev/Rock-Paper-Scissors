@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors
-A console game of rock, paper, scissors with a superior AI to play against.
+A console game of rock, paper, scissors with a superior AI that never loses to play against.
 
 ### How to run the app
 1. Simply download the file and open it up in your Java IDE
